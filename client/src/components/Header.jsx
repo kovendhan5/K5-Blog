@@ -34,7 +34,7 @@ export default function Header() {
         <Button className='w-12 h-10 hidden sm:inline' color='gray' pill>
             <FaMoon />
         </Button>
-        <Link to='/sign-in'>
+        <Link to='/signin'>
         <Button> <span className='px-2 py-1 bg-gradient-to-r from-indigo-500
          via-purple-500 to-pink-500 rounded-lg text-white'>
             sign in
